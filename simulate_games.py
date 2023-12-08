@@ -2,9 +2,12 @@ import game_logic
 from bots import random_bot, mcts_bot
 from screen_utils import screen_utils
 from game_logic import game_logic
+from data import data_utils
 import time
 import keyboard
 from PIL import Image
+import random
+import os
 
 
 CHAMP_LIST = ['Archer', 'Fighter', 'Knight', 'Monk', 'Ninja', 'Priestess',
@@ -24,65 +27,95 @@ TURN_ORDER = ['b_ban', 'r_ban', 'b_ban', 'r_ban',
               'r_pick', 'b_pick', 'b_pick', 'r_pick']
 
 
+RUNNING = True
+DATA_FILE = os.path.join(os.path.dirname(__file__),
+                         'data', 'data.json')
+
+
+def stop_program():
+    global RUNNING
+    print('Stopping the program')
+    RUNNING = False
+
+
+def run_simulations(b_team, r_team):
+    screen_util = screen_utils.ScreenUtils()
+    data_util = data_utils.DataUtils()
+    # Click new test to start a new test
+    screen_util.click_new_test()
+
+    # Click on characters for simulation
+    for char in b_team:
+        screen_util.find_and_click_char(char)
+    for char in r_team:
+        screen_util.find_and_click_char(char)
+
+    # Start test
+    time.sleep(0.5)
+    screen_util.click_start_test()
+
+    # Check for simulation complete
+    screen_util.find_score()
+    time.sleep(0.2)
+
+    # Screenshot score to find winner
+    pic = Image.open('screenshot.png')
+    game_result = screen_util.find_winner(pic)
+
+    # Add data to json file
+    scrim_chars = []
+    scrim_chars = b_team + r_team
+    data_util.append_data(scrim_chars, game_result, DATA_FILE)
+
+    # Close simulation
+    screen_util.click_close()
+
+
 def main():
     game = game_logic.GameLogic()
     screen_util = screen_utils.ScreenUtils()
     r_bot = random_bot.RandomBot()
     m_bot = mcts_bot.MctsBotLogic()
+    bots_list = ['random', 'mcts']
 
-    champ_pool = CHAMP_LIST[:]
-    '''
-    b_team = ['Archer', 'Fighter', 'Knight']
-    r_team = ['Ogre', 'Exorcist','Cold Corpse']
-    for char in b_team:
-        champ_pool.remove(char)
-    for char in r_team:
-        champ_pool.remove(char)
+    # Add hotkey
+    keyboard.add_hotkey('q', stop_program)
+    time.sleep(5)
 
-    print(m_bot.ban_choice(champ_pool, b_team, r_team))
-    '''
+    num_tests = 0
+    while num_tests < 1000 and RUNNING == True:
+        char_pool = CHAMP_LIST[:]
 
-    b_team = []
-    r_team = []
-    b_bans = []
-    r_bans = []
-    char_pool = CHAMP_LIST[:]
+        # Randomly select bot
+        choice1 = random.choice(bots_list)
+        if choice1 == 'random':
+            print('Blue is Random')
+            blue_bot = r_bot
+        elif choice1 == 'mcts':
+            print('Blue is MCTS')
+            blue_bot = m_bot
+        choice2 = random.choice(bots_list)
+        if choice2 == 'random':
+            print('Red is Random')
+            red_bot = r_bot
+        elif choice1 == 'mcts':
+            print('Red is MCTS')
+            red_bot = m_bot
 
-    for turn_num, turn in enumerate(TURN_ORDER):
-        if turn == 'b_ban':
-            b_ban_choice = r_bot.ban_choice(char_pool, b_team, r_team, turn_num)
-            b_bans.append(b_ban_choice)
-            char_pool.remove(b_ban_choice)
-        elif turn == 'r_ban':
-            r_ban_choice = m_bot.ban_choice(char_pool, b_team, r_team, turn_num)
-            r_bans.append(r_ban_choice)
-            char_pool.remove(r_ban_choice)
-        elif turn == 'b_pick':
-            b_pick_choice = r_bot.pick_choice(char_pool, b_team, r_team,
-                                              turn_num)
-            b_team.append(b_pick_choice)
-            char_pool.remove(b_pick_choice)
-        elif turn == 'r_pick':
-            r_pick_choice = m_bot.pick_choice(char_pool, b_team, r_team,
-                                              turn_num)
-            r_team.append(r_pick_choice)
-            char_pool.remove(r_pick_choice)
-    print(b_bans, r_bans)
-    print(b_team, r_team)
+        # Run draft for selected bots
+        draft = game.bot_draft(char_pool, blue_bot, red_bot)
+        drafted_b_team = draft[0]
+        drafted_r_team = draft[1]
+        b_team_bans = draft[2]
+        r_team_bans = draft[3]
+        print(drafted_b_team, drafted_r_team)
+        print(b_team_bans, r_team_bans)
 
+        # Run simulations for games
+        for i in range(3):
+            run_simulations(drafted_b_team, drafted_r_team)
 
-
-
-
-'''
-    # Run Draft for teams
-    draft = game.bot_draft(CHAMP_LIST, r_bot, r_bot)
-    b_team = draft[0]
-    r_team = draft[1]
-    print(b_team, r_team)
-
-    print(m_bot.ban_choice(CHAMP_LIST, b_team, r_team))
-'''
+        num_tests += 1
 
 
 if __name__ == '__main__':
