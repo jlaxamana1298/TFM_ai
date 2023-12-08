@@ -1,0 +1,3 @@
+To Do:
+    1. Update mcts_bot.py to work with red-side team
+    2. Update mcts_bot.py to load .h5 model before creating root node

@@ -1,0 +1,28 @@
+[
+    {
+        "characters": [
+            "Archer",
+            "Cold Corpse",
+            "Sniper",
+            "Illusionist",
+            "Devil",
+            "Boomerang Hunter",
+            "Knight",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Shrine Maiden",
+            "Sniper",
+            "Vampire",
+            "Dual Blader",
+            "Cold Corpse",
+            "Plague Doctor",
+            "Executioner"
+        ],
+        "result": "Loss"
+    }
+]
