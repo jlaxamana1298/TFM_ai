@@ -1,0 +1,7685 @@
+[
+    {
+        "characters": [
+            "Archer",
+            "Cold Corpse",
+            "Sniper",
+            "Illusionist",
+            "Devil",
+            "Boomerang Hunter",
+            "Knight",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Illusionist",
+            "Sniper",
+            "Barrier Mage",
+            "Ghost",
+            "Devil",
+            "Werewolf",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Bard",
+            "Dark Mage",
+            "Ninja",
+            "Gunner",
+            "Knight",
+            "Executioner",
+            "Shrine Maiden",
+            "Berserker"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Dark Mage",
+            "Dual Blader",
+            "Lancer",
+            "Plague Doctor",
+            "Gambler",
+            "Necromancer",
+            "Berserker"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Dual Blader",
+            "Boomerang Hunter",
+            "Sniper",
+            "Ninja",
+            "Monk",
+            "Illusionist",
+            "Fighter",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Swordsman",
+            "Clown",
+            "Werewolf",
+            "Bard",
+            "Mystic Dancer",
+            "Knight",
+            "Shield Bearer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Devil",
+            "Werewolf",
+            "Illusionist",
+            "Necromancer",
+            "Gambler",
+            "Executioner",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Archer",
+            "Dark Mage",
+            "Priestess",
+            "Bard",
+            "Necromancer",
+            "Taoist",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Monk",
+            "Cook",
+            "Plague Doctor",
+            "Poison Dart Hunter",
+            "Cold Corpse",
+            "Bard",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Bard",
+            "Lancer",
+            "Ninja",
+            "Werewolf",
+            "Pyromancer",
+            "Lightning Mage",
+            "Magic Knight",
+            "Ghost"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Shield Bearer",
+            "Necromancer",
+            "Berserker",
+            "Priestess",
+            "Executioner",
+            "Gambler",
+            "Barrier Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gunner",
+            "Dark Mage",
+            "Ninja",
+            "Necromancer",
+            "Sniper",
+            "Shrine Maiden",
+            "Cold Corpse",
+            "Ghost"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Illusionist",
+            "Shield Bearer",
+            "Vampire",
+            "Barrier Mage",
+            "Shadowmancer",
+            "Berserker",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Shrine Maiden",
+            "Gunner",
+            "Vampire",
+            "Devil",
+            "Poison Dart Hunter",
+            "Mystic Dancer",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Ice Mage",
+            "Barrier Mage",
+            "Berserker",
+            "Exorcist",
+            "Cold Corpse",
+            "Ghost",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Devil",
+            "Executioner",
+            "Fighter",
+            "Exorcist",
+            "Ninja",
+            "Monk",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Exorcist",
+            "Magic Knight",
+            "Swordsman",
+            "Ninja",
+            "Gunner",
+            "Fighter",
+            "Plague Doctor"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Vampire",
+            "Lancer",
+            "Dual Blader",
+            "Dark Mage",
+            "Boomerang Hunter",
+            "Gambler",
+            "Mystic Dancer",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Ninja",
+            "Berserker",
+            "Lightning Mage",
+            "Exorcist",
+            "Shrine Maiden",
+            "Executioner",
+            "Lancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Bard",
+            "Shrine Maiden",
+            "Ninja",
+            "Boomerang Hunter",
+            "Poison Dart Hunter",
+            "Exorcist",
+            "Monk",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Bard",
+            "Illusionist",
+            "Shadowmancer",
+            "Gambler",
+            "Dual Blader",
+            "Dark Mage",
+            "Plague Doctor"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Vampire",
+            "Dual Blader",
+            "Cold Corpse",
+            "Ogre",
+            "Knight",
+            "Pyromancer",
+            "Necromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Archer",
+            "Dual Blader",
+            "Gambler",
+            "Necromancer",
+            "Illusionist",
+            "Swordsman",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Clown",
+            "Berserker",
+            "Shield Bearer",
+            "Exorcist",
+            "Monk",
+            "Werewolf",
+            "Archer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Swordsman",
+            "Magic Knight",
+            "Cold Corpse",
+            "Dual Blader",
+            "Gambler",
+            "Gunner",
+            "Barrier Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Shadowmancer",
+            "Gunner",
+            "Shield Bearer",
+            "Boomerang Hunter",
+            "Vampire",
+            "Devil",
+            "Cold Corpse"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Shrine Maiden",
+            "Gunner",
+            "Ice Mage",
+            "Vampire",
+            "Magic Knight",
+            "Gambler",
+            "Ogre"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Lightning Mage",
+            "Ogre",
+            "Shield Bearer",
+            "Bard",
+            "Sniper",
+            "Shadowmancer",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Executioner",
+            "Monk",
+            "Ogre",
+            "Lightning Mage",
+            "Fighter",
+            "Dual Blader",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Clown",
+            "Poison Dart Hunter",
+            "Dark Mage",
+            "Taoist",
+            "Illusionist",
+            "Monk",
+            "Shrine Maiden"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lightning Mage",
+            "Devil",
+            "Illusionist",
+            "Dual Blader",
+            "Cold Corpse",
+            "Archer",
+            "Shadowmancer",
+            "Vampire"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Monk",
+            "Ghost",
+            "Werewolf",
+            "Boomerang Hunter",
+            "Shield Bearer",
+            "Gunner",
+            "Plague Doctor"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Shadowmancer",
+            "Knight",
+            "Sniper",
+            "Boomerang Hunter",
+            "Pyromancer",
+            "Necromancer",
+            "Shield Bearer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Shadowmancer",
+            "Taoist",
+            "Clown",
+            "Shield Bearer",
+            "Devil",
+            "Monk",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Pyromancer",
+            "Ninja",
+            "Swordsman",
+            "Priestess",
+            "Exorcist",
+            "Sniper",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Illusionist",
+            "Dark Mage",
+            "Plague Doctor",
+            "Shield Bearer",
+            "Archer",
+            "Lancer",
+            "Ghost"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Monk",
+            "Ogre",
+            "Berserker",
+            "Dual Blader",
+            "Priestess",
+            "Exorcist",
+            "Dark Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Cold Corpse",
+            "Knight",
+            "Ghost",
+            "Gambler",
+            "Monk",
+            "Shield Bearer",
+            "Barrier Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Swordsman",
+            "Cold Corpse",
+            "Knight",
+            "Vampire",
+            "Gunner",
+            "Clown",
+            "Priestess"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Ice Mage",
+            "Ghost",
+            "Pyromancer",
+            "Clown",
+            "Dark Mage",
+            "Archer",
+            "Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Ogre",
+            "Swordsman",
+            "Barrier Mage",
+            "Shrine Maiden",
+            "Fighter",
+            "Necromancer",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Cold Corpse",
+            "Sniper",
+            "Cook",
+            "Gunner",
+            "Ghost",
+            "Dual Blader",
+            "Shield Bearer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Lancer",
+            "Executioner",
+            "Gambler",
+            "Shield Bearer",
+            "Devil",
+            "Taoist",
+            "Sniper"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Dark Mage",
+            "Cook",
+            "Pyromancer",
+            "Werewolf",
+            "Sniper",
+            "Taoist",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Lancer",
+            "Barrier Mage",
+            "Devil",
+            "Gunner",
+            "Pyromancer",
+            "Archer",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Knight",
+            "Necromancer",
+            "Ogre",
+            "Exorcist",
+            "Archer",
+            "Ninja",
+            "Priestess"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Shadowmancer",
+            "Poison Dart Hunter",
+            "Necromancer",
+            "Cook",
+            "Berserker",
+            "Plague Doctor",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Dual Blader",
+            "Lightning Mage",
+            "Sniper",
+            "Vampire",
+            "Exorcist",
+            "Barrier Mage",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Ogre",
+            "Gambler",
+            "Shrine Maiden",
+            "Shield Bearer",
+            "Ghost",
+            "Exorcist",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gunner",
+            "Knight",
+            "Swordsman",
+            "Werewolf",
+            "Clown",
+            "Ghost",
+            "Shield Bearer",
+            "Priestess"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Knight",
+            "Taoist",
+            "Pyromancer",
+            "Cook",
+            "Sniper",
+            "Dual Blader",
+            "Gambler"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Ice Mage",
+            "Shield Bearer",
+            "Poison Dart Hunter",
+            "Ogre",
+            "Bard",
+            "Magic Knight",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Pyromancer",
+            "Plague Doctor",
+            "Gunner",
+            "Poison Dart Hunter",
+            "Boomerang Hunter",
+            "Cold Corpse",
+            "Ninja"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Shadowmancer",
+            "Monk",
+            "Knight",
+            "Cold Corpse",
+            "Berserker",
+            "Lancer",
+            "Vampire"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Archer",
+            "Pyromancer",
+            "Taoist",
+            "Clown",
+            "Ninja",
+            "Ghost",
+            "Priestess"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Fighter",
+            "Knight",
+            "Lightning Mage",
+            "Swordsman",
+            "Shrine Maiden",
+            "Necromancer",
+            "Berserker"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Taoist",
+            "Magic Knight",
+            "Knight",
+            "Ninja",
+            "Plague Doctor",
+            "Cook",
+            "Shield Bearer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gunner",
+            "Cold Corpse",
+            "Swordsman",
+            "Devil",
+            "Pyromancer",
+            "Ogre",
+            "Priestess",
+            "Gambler"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Dual Blader",
+            "Cook",
+            "Werewolf",
+            "Necromancer",
+            "Gunner",
+            "Monk",
+            "Devil"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Plague Doctor",
+            "Boomerang Hunter",
+            "Necromancer",
+            "Vampire",
+            "Sniper",
+            "Cold Corpse",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Dual Blader",
+            "Shrine Maiden",
+            "Priestess",
+            "Berserker",
+            "Lightning Mage",
+            "Clown",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Shield Bearer",
+            "Taoist",
+            "Dark Mage",
+            "Ghost",
+            "Shadowmancer",
+            "Plague Doctor",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Mystic Dancer",
+            "Exorcist",
+            "Fighter",
+            "Vampire",
+            "Ghost",
+            "Ice Mage",
+            "Devil"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dual Blader",
+            "Swordsman",
+            "Gambler",
+            "Executioner",
+            "Necromancer",
+            "Illusionist",
+            "Gunner",
+            "Shadowmancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Executioner",
+            "Shadowmancer",
+            "Taoist",
+            "Werewolf",
+            "Lightning Mage",
+            "Sniper",
+            "Ice Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Ghost",
+            "Cold Corpse",
+            "Priestess",
+            "Mystic Dancer",
+            "Taoist",
+            "Archer",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Ninja",
+            "Shadowmancer",
+            "Swordsman",
+            "Priestess",
+            "Executioner",
+            "Fighter",
+            "Taoist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Gunner",
+            "Plague Doctor",
+            "Barrier Mage",
+            "Dual Blader",
+            "Knight",
+            "Shrine Maiden",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Ogre",
+            "Poison Dart Hunter",
+            "Clown",
+            "Boomerang Hunter",
+            "Cook",
+            "Knight",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Plague Doctor",
+            "Sniper",
+            "Necromancer",
+            "Shield Bearer",
+            "Mystic Dancer",
+            "Priestess",
+            "Cold Corpse"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Werewolf",
+            "Necromancer",
+            "Gambler",
+            "Vampire",
+            "Shadowmancer",
+            "Swordsman",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Clown",
+            "Dark Mage",
+            "Shield Bearer",
+            "Knight",
+            "Plague Doctor",
+            "Swordsman",
+            "Gambler"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Ninja",
+            "Lancer",
+            "Monk",
+            "Vampire",
+            "Sniper",
+            "Shield Bearer",
+            "Priestess"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Ghost",
+            "Cold Corpse",
+            "Poison Dart Hunter",
+            "Magic Knight",
+            "Plague Doctor",
+            "Bard",
+            "Executioner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Devil",
+            "Bard",
+            "Executioner",
+            "Shield Bearer",
+            "Mystic Dancer",
+            "Monk",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Sniper",
+            "Dark Mage",
+            "Priestess",
+            "Necromancer",
+            "Clown",
+            "Shrine Maiden",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Sniper",
+            "Bard",
+            "Shadowmancer",
+            "Archer",
+            "Clown",
+            "Fighter",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Sniper",
+            "Necromancer",
+            "Dark Mage",
+            "Monk",
+            "Lightning Mage",
+            "Vampire",
+            "Ninja"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Bard",
+            "Pyromancer",
+            "Gunner",
+            "Vampire",
+            "Knight",
+            "Poison Dart Hunter",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Plague Doctor",
+            "Devil",
+            "Executioner",
+            "Berserker",
+            "Pyromancer",
+            "Cold Corpse",
+            "Illusionist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Ghost",
+            "Shadowmancer",
+            "Clown",
+            "Lightning Mage",
+            "Vampire",
+            "Dual Blader",
+            "Werewolf"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Bard",
+            "Werewolf",
+            "Archer",
+            "Illusionist",
+            "Ice Mage",
+            "Priestess",
+            "Vampire"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Devil",
+            "Swordsman",
+            "Mystic Dancer",
+            "Executioner",
+            "Necromancer",
+            "Illusionist",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Boomerang Hunter",
+            "Gambler",
+            "Necromancer",
+            "Shadowmancer",
+            "Magic Knight",
+            "Monk",
+            "Devil"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Ice Mage",
+            "Necromancer",
+            "Barrier Mage",
+            "Lancer",
+            "Berserker",
+            "Illusionist",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Lightning Mage",
+            "Monk",
+            "Necromancer",
+            "Dual Blader",
+            "Cold Corpse",
+            "Knight",
+            "Berserker"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dual Blader",
+            "Ogre",
+            "Poison Dart Hunter",
+            "Shadowmancer",
+            "Shrine Maiden",
+            "Ninja",
+            "Lightning Mage",
+            "Gambler"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Barrier Mage",
+            "Archer",
+            "Cold Corpse",
+            "Devil",
+            "Lightning Mage",
+            "Shield Bearer",
+            "Vampire"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Werewolf",
+            "Berserker",
+            "Cold Corpse",
+            "Clown",
+            "Mystic Dancer",
+            "Bard",
+            "Devil"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Ghost",
+            "Illusionist",
+            "Archer",
+            "Knight",
+            "Devil",
+            "Swordsman",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Monk",
+            "Magic Knight",
+            "Shadowmancer",
+            "Ice Mage",
+            "Knight",
+            "Necromancer",
+            "Cold Corpse"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lightning Mage",
+            "Taoist",
+            "Bard",
+            "Fighter",
+            "Pyromancer",
+            "Shrine Maiden",
+            "Barrier Mage",
+            "Dark Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Werewolf",
+            "Illusionist",
+            "Dual Blader",
+            "Archer",
+            "Executioner",
+            "Clown",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Ice Mage",
+            "Clown",
+            "Werewolf",
+            "Shield Bearer",
+            "Shrine Maiden",
+            "Taoist",
+            "Lancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Ice Mage",
+            "Berserker",
+            "Shrine Maiden",
+            "Vampire",
+            "Exorcist",
+            "Gunner",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Mystic Dancer",
+            "Swordsman",
+            "Barrier Mage",
+            "Sniper",
+            "Ghost",
+            "Monk",
+            "Ice Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Clown",
+            "Shield Bearer",
+            "Plague Doctor",
+            "Cold Corpse",
+            "Necromancer",
+            "Cook",
+            "Lightning Mage",
+            "Shrine Maiden"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Monk",
+            "Barrier Mage",
+            "Exorcist",
+            "Cook",
+            "Lightning Mage",
+            "Dark Mage",
+            "Ghost"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Cold Corpse",
+            "Executioner",
+            "Exorcist",
+            "Sniper",
+            "Fighter",
+            "Werewolf",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Clown",
+            "Cook",
+            "Shield Bearer",
+            "Taoist",
+            "Lightning Mage",
+            "Barrier Mage",
+            "Dark Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Mystic Dancer",
+            "Swordsman",
+            "Illusionist",
+            "Magic Knight",
+            "Ghost",
+            "Lancer",
+            "Berserker"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Vampire",
+            "Shield Bearer",
+            "Bard",
+            "Barrier Mage",
+            "Ninja",
+            "Werewolf",
+            "Taoist",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gunner",
+            "Poison Dart Hunter",
+            "Plague Doctor",
+            "Ice Mage",
+            "Exorcist",
+            "Illusionist",
+            "Bard",
+            "Cold Corpse"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Plague Doctor",
+            "Ninja",
+            "Necromancer",
+            "Cook",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Sniper",
+            "Werewolf",
+            "Plague Doctor",
+            "Devil",
+            "Exorcist",
+            "Illusionist",
+            "Berserker"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Lancer",
+            "Berserker",
+            "Monk",
+            "Werewolf",
+            "Bard",
+            "Exorcist",
+            "Boomerang Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Gambler",
+            "Bard",
+            "Werewolf",
+            "Executioner",
+            "Boomerang Hunter",
+            "Sniper",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Gambler",
+            "Bard",
+            "Werewolf",
+            "Executioner",
+            "Boomerang Hunter",
+            "Sniper",
+            "Magic Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Gambler",
+            "Bard",
+            "Werewolf",
+            "Executioner",
+            "Boomerang Hunter",
+            "Sniper",
+            "Magic Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Ghost",
+            "Archer",
+            "Lancer",
+            "Mystic Dancer",
+            "Executioner",
+            "Devil",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Ghost",
+            "Archer",
+            "Lancer",
+            "Mystic Dancer",
+            "Executioner",
+            "Devil",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Ghost",
+            "Archer",
+            "Lancer",
+            "Mystic Dancer",
+            "Executioner",
+            "Devil",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Gunner",
+            "Executioner",
+            "Sniper",
+            "Shrine Maiden",
+            "Plague Doctor",
+            "Archer",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Gunner",
+            "Executioner",
+            "Sniper",
+            "Shrine Maiden",
+            "Plague Doctor",
+            "Archer",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Gunner",
+            "Executioner",
+            "Sniper",
+            "Shrine Maiden",
+            "Plague Doctor",
+            "Archer",
+            "Illusionist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Ninja",
+            "Shadowmancer",
+            "Fighter",
+            "Devil",
+            "Plague Doctor",
+            "Monk",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Ninja",
+            "Shadowmancer",
+            "Fighter",
+            "Devil",
+            "Plague Doctor",
+            "Monk",
+            "Shrine Maiden"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Ninja",
+            "Shadowmancer",
+            "Fighter",
+            "Devil",
+            "Plague Doctor",
+            "Monk",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Lancer",
+            "Taoist",
+            "Exorcist",
+            "Barrier Mage",
+            "Gambler",
+            "Pyromancer",
+            "Shield Bearer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Lancer",
+            "Taoist",
+            "Exorcist",
+            "Barrier Mage",
+            "Gambler",
+            "Pyromancer",
+            "Shield Bearer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Lancer",
+            "Taoist",
+            "Exorcist",
+            "Barrier Mage",
+            "Gambler",
+            "Pyromancer",
+            "Shield Bearer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Cook",
+            "Barrier Mage",
+            "Pyromancer",
+            "Illusionist",
+            "Exorcist",
+            "Gambler",
+            "Necromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Cook",
+            "Barrier Mage",
+            "Pyromancer",
+            "Illusionist",
+            "Exorcist",
+            "Gambler",
+            "Necromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Cook",
+            "Barrier Mage",
+            "Pyromancer",
+            "Illusionist",
+            "Exorcist",
+            "Gambler",
+            "Necromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Fighter",
+            "Shadowmancer",
+            "Gunner",
+            "Monk",
+            "Lancer",
+            "Cook",
+            "Taoist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Fighter",
+            "Shadowmancer",
+            "Gunner",
+            "Monk",
+            "Lancer",
+            "Cook",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Fighter",
+            "Shadowmancer",
+            "Gunner",
+            "Monk",
+            "Lancer",
+            "Cook",
+            "Taoist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Cook",
+            "Shadowmancer",
+            "Knight",
+            "Shrine Maiden",
+            "Ninja",
+            "Dark Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Cook",
+            "Shadowmancer",
+            "Knight",
+            "Shrine Maiden",
+            "Ninja",
+            "Dark Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Cook",
+            "Shadowmancer",
+            "Knight",
+            "Shrine Maiden",
+            "Ninja",
+            "Dark Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Plague Doctor",
+            "Boomerang Hunter",
+            "Werewolf",
+            "Vampire",
+            "Ice Mage",
+            "Magic Knight",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Plague Doctor",
+            "Boomerang Hunter",
+            "Werewolf",
+            "Vampire",
+            "Ice Mage",
+            "Magic Knight",
+            "Mystic Dancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Plague Doctor",
+            "Boomerang Hunter",
+            "Werewolf",
+            "Vampire",
+            "Ice Mage",
+            "Magic Knight",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Clown",
+            "Lightning Mage",
+            "Exorcist",
+            "Fighter",
+            "Magic Knight",
+            "Vampire",
+            "Dark Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Clown",
+            "Lightning Mage",
+            "Exorcist",
+            "Fighter",
+            "Magic Knight",
+            "Vampire",
+            "Dark Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Clown",
+            "Lightning Mage",
+            "Exorcist",
+            "Fighter",
+            "Magic Knight",
+            "Vampire",
+            "Dark Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Lightning Mage",
+            "Poison Dart Hunter",
+            "Priestess",
+            "Barrier Mage",
+            "Monk",
+            "Plague Doctor",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Lightning Mage",
+            "Poison Dart Hunter",
+            "Priestess",
+            "Barrier Mage",
+            "Monk",
+            "Plague Doctor",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Lightning Mage",
+            "Poison Dart Hunter",
+            "Priestess",
+            "Barrier Mage",
+            "Monk",
+            "Plague Doctor",
+            "Shrine Maiden"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Berserker",
+            "Gambler",
+            "Knight",
+            "Clown",
+            "Poison Dart Hunter",
+            "Sniper",
+            "Plague Doctor"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Berserker",
+            "Gambler",
+            "Knight",
+            "Clown",
+            "Poison Dart Hunter",
+            "Sniper",
+            "Plague Doctor"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Berserker",
+            "Gambler",
+            "Knight",
+            "Clown",
+            "Poison Dart Hunter",
+            "Sniper",
+            "Plague Doctor"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Ice Mage",
+            "Lancer",
+            "Knight",
+            "Archer",
+            "Ghost",
+            "Gambler",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Ice Mage",
+            "Lancer",
+            "Knight",
+            "Archer",
+            "Ghost",
+            "Gambler",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Ice Mage",
+            "Lancer",
+            "Knight",
+            "Archer",
+            "Ghost",
+            "Gambler",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Shield Bearer",
+            "Vampire",
+            "Taoist",
+            "Sniper",
+            "Cold Corpse",
+            "Monk",
+            "Archer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Shield Bearer",
+            "Vampire",
+            "Taoist",
+            "Sniper",
+            "Cold Corpse",
+            "Monk",
+            "Archer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Shield Bearer",
+            "Vampire",
+            "Taoist",
+            "Sniper",
+            "Cold Corpse",
+            "Monk",
+            "Archer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Bard",
+            "Plague Doctor",
+            "Shield Bearer",
+            "Monk",
+            "Mystic Dancer",
+            "Lancer",
+            "Sniper"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Bard",
+            "Plague Doctor",
+            "Shield Bearer",
+            "Monk",
+            "Mystic Dancer",
+            "Lancer",
+            "Sniper"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Bard",
+            "Plague Doctor",
+            "Shield Bearer",
+            "Monk",
+            "Mystic Dancer",
+            "Lancer",
+            "Sniper"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Fighter",
+            "Dark Mage",
+            "Ghost",
+            "Werewolf",
+            "Shadowmancer",
+            "Cold Corpse",
+            "Magic Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Fighter",
+            "Dark Mage",
+            "Ghost",
+            "Werewolf",
+            "Shadowmancer",
+            "Cold Corpse",
+            "Magic Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Fighter",
+            "Dark Mage",
+            "Ghost",
+            "Werewolf",
+            "Shadowmancer",
+            "Cold Corpse",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Archer",
+            "Dark Mage",
+            "Monk",
+            "Shadowmancer",
+            "Pyromancer",
+            "Exorcist",
+            "Executioner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Archer",
+            "Dark Mage",
+            "Monk",
+            "Shadowmancer",
+            "Pyromancer",
+            "Exorcist",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Archer",
+            "Dark Mage",
+            "Monk",
+            "Shadowmancer",
+            "Pyromancer",
+            "Exorcist",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Lancer",
+            "Priestess",
+            "Ninja",
+            "Cook",
+            "Plague Doctor",
+            "Executioner",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Lancer",
+            "Priestess",
+            "Ninja",
+            "Cook",
+            "Plague Doctor",
+            "Executioner",
+            "Gunner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Lancer",
+            "Priestess",
+            "Ninja",
+            "Cook",
+            "Plague Doctor",
+            "Executioner",
+            "Gunner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Cook",
+            "Devil",
+            "Berserker",
+            "Executioner",
+            "Priestess",
+            "Clown",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Cook",
+            "Devil",
+            "Berserker",
+            "Executioner",
+            "Priestess",
+            "Clown",
+            "Poison Dart Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Cook",
+            "Devil",
+            "Berserker",
+            "Executioner",
+            "Priestess",
+            "Clown",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Bard",
+            "Devil",
+            "Monk",
+            "Shrine Maiden",
+            "Vampire",
+            "Ninja",
+            "Lancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Bard",
+            "Devil",
+            "Monk",
+            "Shrine Maiden",
+            "Vampire",
+            "Ninja",
+            "Lancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Bard",
+            "Devil",
+            "Monk",
+            "Shrine Maiden",
+            "Vampire",
+            "Ninja",
+            "Lancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Cook",
+            "Magic Knight",
+            "Priestess",
+            "Sniper",
+            "Illusionist",
+            "Ogre",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Cook",
+            "Magic Knight",
+            "Priestess",
+            "Sniper",
+            "Illusionist",
+            "Ogre",
+            "Monk"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Cook",
+            "Magic Knight",
+            "Priestess",
+            "Sniper",
+            "Illusionist",
+            "Ogre",
+            "Monk"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Pyromancer",
+            "Exorcist",
+            "Ghost",
+            "Plague Doctor",
+            "Necromancer",
+            "Cold Corpse",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Pyromancer",
+            "Exorcist",
+            "Ghost",
+            "Plague Doctor",
+            "Necromancer",
+            "Cold Corpse",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Pyromancer",
+            "Exorcist",
+            "Ghost",
+            "Plague Doctor",
+            "Necromancer",
+            "Cold Corpse",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Clown",
+            "Pyromancer",
+            "Lancer",
+            "Swordsman",
+            "Priestess",
+            "Mystic Dancer",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Clown",
+            "Pyromancer",
+            "Lancer",
+            "Swordsman",
+            "Priestess",
+            "Mystic Dancer",
+            "Bard"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Clown",
+            "Pyromancer",
+            "Lancer",
+            "Swordsman",
+            "Priestess",
+            "Mystic Dancer",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Boomerang Hunter",
+            "Barrier Mage",
+            "Magic Knight",
+            "Lancer",
+            "Gunner",
+            "Ice Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Boomerang Hunter",
+            "Barrier Mage",
+            "Magic Knight",
+            "Lancer",
+            "Gunner",
+            "Ice Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Boomerang Hunter",
+            "Barrier Mage",
+            "Magic Knight",
+            "Lancer",
+            "Gunner",
+            "Ice Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Devil",
+            "Exorcist",
+            "Poison Dart Hunter",
+            "Boomerang Hunter",
+            "Pyromancer",
+            "Shrine Maiden",
+            "Cold Corpse"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Devil",
+            "Exorcist",
+            "Poison Dart Hunter",
+            "Boomerang Hunter",
+            "Pyromancer",
+            "Shrine Maiden",
+            "Cold Corpse"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Devil",
+            "Exorcist",
+            "Poison Dart Hunter",
+            "Boomerang Hunter",
+            "Pyromancer",
+            "Shrine Maiden",
+            "Cold Corpse"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Exorcist",
+            "Barrier Mage",
+            "Ghost",
+            "Magic Knight",
+            "Cook",
+            "Fighter",
+            "Berserker"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Exorcist",
+            "Barrier Mage",
+            "Ghost",
+            "Magic Knight",
+            "Cook",
+            "Fighter",
+            "Berserker"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Exorcist",
+            "Barrier Mage",
+            "Ghost",
+            "Magic Knight",
+            "Cook",
+            "Fighter",
+            "Berserker"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Knight",
+            "Clown",
+            "Ninja",
+            "Devil",
+            "Sniper",
+            "Necromancer",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Knight",
+            "Clown",
+            "Ninja",
+            "Devil",
+            "Sniper",
+            "Necromancer",
+            "Fighter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Knight",
+            "Clown",
+            "Ninja",
+            "Devil",
+            "Sniper",
+            "Necromancer",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Shield Bearer",
+            "Ninja",
+            "Mystic Dancer",
+            "Exorcist",
+            "Berserker",
+            "Gambler",
+            "Magic Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Shield Bearer",
+            "Ninja",
+            "Mystic Dancer",
+            "Exorcist",
+            "Berserker",
+            "Gambler",
+            "Magic Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Shield Bearer",
+            "Ninja",
+            "Mystic Dancer",
+            "Exorcist",
+            "Berserker",
+            "Gambler",
+            "Magic Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Vampire",
+            "Ogre",
+            "Ghost",
+            "Swordsman",
+            "Devil",
+            "Poison Dart Hunter",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Vampire",
+            "Ogre",
+            "Ghost",
+            "Swordsman",
+            "Devil",
+            "Poison Dart Hunter",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Vampire",
+            "Ogre",
+            "Ghost",
+            "Swordsman",
+            "Devil",
+            "Poison Dart Hunter",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Berserker",
+            "Boomerang Hunter",
+            "Necromancer",
+            "Shadowmancer",
+            "Gambler",
+            "Plague Doctor",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Berserker",
+            "Boomerang Hunter",
+            "Necromancer",
+            "Shadowmancer",
+            "Gambler",
+            "Plague Doctor",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Berserker",
+            "Boomerang Hunter",
+            "Necromancer",
+            "Shadowmancer",
+            "Gambler",
+            "Plague Doctor",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Monk",
+            "Plague Doctor",
+            "Knight",
+            "Sniper",
+            "Gunner",
+            "Cold Corpse",
+            "Necromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Monk",
+            "Plague Doctor",
+            "Knight",
+            "Sniper",
+            "Gunner",
+            "Cold Corpse",
+            "Necromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Monk",
+            "Plague Doctor",
+            "Knight",
+            "Sniper",
+            "Gunner",
+            "Cold Corpse",
+            "Necromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Taoist",
+            "Knight",
+            "Vampire",
+            "Executioner",
+            "Mystic Dancer",
+            "Priestess",
+            "Shadowmancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Taoist",
+            "Knight",
+            "Vampire",
+            "Executioner",
+            "Mystic Dancer",
+            "Priestess",
+            "Shadowmancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Taoist",
+            "Knight",
+            "Vampire",
+            "Executioner",
+            "Mystic Dancer",
+            "Priestess",
+            "Shadowmancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Ninja",
+            "Vampire",
+            "Executioner",
+            "Werewolf",
+            "Archer",
+            "Plague Doctor",
+            "Ghost"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Ninja",
+            "Vampire",
+            "Executioner",
+            "Werewolf",
+            "Archer",
+            "Plague Doctor",
+            "Ghost"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Ninja",
+            "Vampire",
+            "Executioner",
+            "Werewolf",
+            "Archer",
+            "Plague Doctor",
+            "Ghost"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Cook",
+            "Dark Mage",
+            "Magic Knight",
+            "Gunner",
+            "Gambler",
+            "Vampire",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Cook",
+            "Dark Mage",
+            "Magic Knight",
+            "Gunner",
+            "Gambler",
+            "Vampire",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Cook",
+            "Dark Mage",
+            "Magic Knight",
+            "Gunner",
+            "Gambler",
+            "Vampire",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Cook",
+            "Devil",
+            "Lancer",
+            "Sniper",
+            "Bard",
+            "Plague Doctor",
+            "Shield Bearer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Cook",
+            "Devil",
+            "Lancer",
+            "Sniper",
+            "Bard",
+            "Plague Doctor",
+            "Shield Bearer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Cook",
+            "Devil",
+            "Lancer",
+            "Sniper",
+            "Bard",
+            "Plague Doctor",
+            "Shield Bearer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Werewolf",
+            "Poison Dart Hunter",
+            "Knight",
+            "Barrier Mage",
+            "Ninja",
+            "Bard",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Werewolf",
+            "Poison Dart Hunter",
+            "Knight",
+            "Barrier Mage",
+            "Ninja",
+            "Bard",
+            "Fighter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Werewolf",
+            "Poison Dart Hunter",
+            "Knight",
+            "Barrier Mage",
+            "Ninja",
+            "Bard",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Magic Knight",
+            "Executioner",
+            "Shield Bearer",
+            "Barrier Mage",
+            "Dual Blader",
+            "Mystic Dancer",
+            "Vampire"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Magic Knight",
+            "Executioner",
+            "Shield Bearer",
+            "Barrier Mage",
+            "Dual Blader",
+            "Mystic Dancer",
+            "Vampire"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Magic Knight",
+            "Executioner",
+            "Shield Bearer",
+            "Barrier Mage",
+            "Dual Blader",
+            "Mystic Dancer",
+            "Vampire"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Taoist",
+            "Ninja",
+            "Knight",
+            "Berserker",
+            "Monk",
+            "Dual Blader",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Taoist",
+            "Ninja",
+            "Knight",
+            "Berserker",
+            "Monk",
+            "Dual Blader",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Taoist",
+            "Ninja",
+            "Knight",
+            "Berserker",
+            "Monk",
+            "Dual Blader",
+            "Gambler"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Devil",
+            "Lancer",
+            "Bard",
+            "Plague Doctor",
+            "Knight",
+            "Executioner",
+            "Clown"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Devil",
+            "Lancer",
+            "Bard",
+            "Plague Doctor",
+            "Knight",
+            "Executioner",
+            "Clown"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Devil",
+            "Lancer",
+            "Bard",
+            "Plague Doctor",
+            "Knight",
+            "Executioner",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Gunner",
+            "Boomerang Hunter",
+            "Shrine Maiden",
+            "Archer",
+            "Pyromancer",
+            "Lightning Mage",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Gunner",
+            "Boomerang Hunter",
+            "Shrine Maiden",
+            "Archer",
+            "Pyromancer",
+            "Lightning Mage",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Gunner",
+            "Boomerang Hunter",
+            "Shrine Maiden",
+            "Archer",
+            "Pyromancer",
+            "Lightning Mage",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Magic Knight",
+            "Monk",
+            "Berserker",
+            "Knight",
+            "Clown",
+            "Mystic Dancer",
+            "Barrier Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Magic Knight",
+            "Monk",
+            "Berserker",
+            "Knight",
+            "Clown",
+            "Mystic Dancer",
+            "Barrier Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Magic Knight",
+            "Monk",
+            "Berserker",
+            "Knight",
+            "Clown",
+            "Mystic Dancer",
+            "Barrier Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Dual Blader",
+            "Boomerang Hunter",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Ninja",
+            "Devil",
+            "Vampire",
+            "Priestess"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dual Blader",
+            "Boomerang Hunter",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Ninja",
+            "Devil",
+            "Vampire",
+            "Priestess"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dual Blader",
+            "Boomerang Hunter",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Ninja",
+            "Devil",
+            "Vampire",
+            "Priestess"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Plague Doctor",
+            "Shadowmancer",
+            "Dark Mage",
+            "Gambler",
+            "Ghost",
+            "Werewolf",
+            "Sniper"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Plague Doctor",
+            "Shadowmancer",
+            "Dark Mage",
+            "Gambler",
+            "Ghost",
+            "Werewolf",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Plague Doctor",
+            "Shadowmancer",
+            "Dark Mage",
+            "Gambler",
+            "Ghost",
+            "Werewolf",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Devil",
+            "Shrine Maiden",
+            "Necromancer",
+            "Poison Dart Hunter",
+            "Barrier Mage",
+            "Swordsman",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Devil",
+            "Shrine Maiden",
+            "Necromancer",
+            "Poison Dart Hunter",
+            "Barrier Mage",
+            "Swordsman",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Devil",
+            "Shrine Maiden",
+            "Necromancer",
+            "Poison Dart Hunter",
+            "Barrier Mage",
+            "Swordsman",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Ice Mage",
+            "Clown",
+            "Poison Dart Hunter",
+            "Taoist",
+            "Gambler",
+            "Magic Knight",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Ice Mage",
+            "Clown",
+            "Poison Dart Hunter",
+            "Taoist",
+            "Gambler",
+            "Magic Knight",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Ice Mage",
+            "Clown",
+            "Poison Dart Hunter",
+            "Taoist",
+            "Gambler",
+            "Magic Knight",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Exorcist",
+            "Dark Mage",
+            "Shield Bearer",
+            "Dual Blader",
+            "Ice Mage",
+            "Werewolf",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Exorcist",
+            "Dark Mage",
+            "Shield Bearer",
+            "Dual Blader",
+            "Ice Mage",
+            "Werewolf",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Exorcist",
+            "Dark Mage",
+            "Shield Bearer",
+            "Dual Blader",
+            "Ice Mage",
+            "Werewolf",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Monk",
+            "Magic Knight",
+            "Berserker",
+            "Devil",
+            "Barrier Mage",
+            "Necromancer",
+            "Shield Bearer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Monk",
+            "Magic Knight",
+            "Berserker",
+            "Devil",
+            "Barrier Mage",
+            "Necromancer",
+            "Shield Bearer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Monk",
+            "Magic Knight",
+            "Berserker",
+            "Devil",
+            "Barrier Mage",
+            "Necromancer",
+            "Shield Bearer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Clown",
+            "Lightning Mage",
+            "Poison Dart Hunter",
+            "Dual Blader",
+            "Cold Corpse",
+            "Executioner",
+            "Dark Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Clown",
+            "Lightning Mage",
+            "Poison Dart Hunter",
+            "Dual Blader",
+            "Cold Corpse",
+            "Executioner",
+            "Dark Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Clown",
+            "Lightning Mage",
+            "Poison Dart Hunter",
+            "Dual Blader",
+            "Cold Corpse",
+            "Executioner",
+            "Dark Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Ogre",
+            "Exorcist",
+            "Bard",
+            "Gunner",
+            "Pyromancer",
+            "Cook",
+            "Monk"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Ogre",
+            "Exorcist",
+            "Bard",
+            "Gunner",
+            "Pyromancer",
+            "Cook",
+            "Monk"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Ogre",
+            "Exorcist",
+            "Bard",
+            "Gunner",
+            "Pyromancer",
+            "Cook",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Necromancer",
+            "Cook",
+            "Dual Blader",
+            "Lightning Mage",
+            "Barrier Mage",
+            "Priestess",
+            "Fighter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Necromancer",
+            "Cook",
+            "Dual Blader",
+            "Lightning Mage",
+            "Barrier Mage",
+            "Priestess",
+            "Fighter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Necromancer",
+            "Cook",
+            "Dual Blader",
+            "Lightning Mage",
+            "Barrier Mage",
+            "Priestess",
+            "Fighter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Ninja",
+            "Sniper",
+            "Executioner",
+            "Lightning Mage",
+            "Clown",
+            "Priestess",
+            "Shield Bearer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Ninja",
+            "Sniper",
+            "Executioner",
+            "Lightning Mage",
+            "Clown",
+            "Priestess",
+            "Shield Bearer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Ninja",
+            "Sniper",
+            "Executioner",
+            "Lightning Mage",
+            "Clown",
+            "Priestess",
+            "Shield Bearer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Ogre",
+            "Vampire",
+            "Mystic Dancer",
+            "Cook",
+            "Devil",
+            "Magic Knight",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Ogre",
+            "Vampire",
+            "Mystic Dancer",
+            "Cook",
+            "Devil",
+            "Magic Knight",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Ogre",
+            "Vampire",
+            "Mystic Dancer",
+            "Cook",
+            "Devil",
+            "Magic Knight",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Shield Bearer",
+            "Mystic Dancer",
+            "Executioner",
+            "Clown",
+            "Ogre",
+            "Illusionist",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Shield Bearer",
+            "Mystic Dancer",
+            "Executioner",
+            "Clown",
+            "Ogre",
+            "Illusionist",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Shield Bearer",
+            "Mystic Dancer",
+            "Executioner",
+            "Clown",
+            "Ogre",
+            "Illusionist",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Shrine Maiden",
+            "Werewolf",
+            "Plague Doctor",
+            "Monk",
+            "Exorcist",
+            "Lightning Mage",
+            "Ninja"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Shrine Maiden",
+            "Werewolf",
+            "Plague Doctor",
+            "Monk",
+            "Exorcist",
+            "Lightning Mage",
+            "Ninja"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Shrine Maiden",
+            "Werewolf",
+            "Plague Doctor",
+            "Monk",
+            "Exorcist",
+            "Lightning Mage",
+            "Ninja"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Vampire",
+            "Ninja",
+            "Shield Bearer",
+            "Berserker",
+            "Gunner",
+            "Dark Mage",
+            "Lancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Vampire",
+            "Ninja",
+            "Shield Bearer",
+            "Berserker",
+            "Gunner",
+            "Dark Mage",
+            "Lancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Vampire",
+            "Ninja",
+            "Shield Bearer",
+            "Berserker",
+            "Gunner",
+            "Dark Mage",
+            "Lancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Shrine Maiden",
+            "Mystic Dancer",
+            "Knight",
+            "Vampire",
+            "Boomerang Hunter",
+            "Ninja",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Shrine Maiden",
+            "Mystic Dancer",
+            "Knight",
+            "Vampire",
+            "Boomerang Hunter",
+            "Ninja",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Shrine Maiden",
+            "Mystic Dancer",
+            "Knight",
+            "Vampire",
+            "Boomerang Hunter",
+            "Ninja",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Fighter",
+            "Shrine Maiden",
+            "Illusionist",
+            "Gambler",
+            "Priestess",
+            "Mystic Dancer",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Fighter",
+            "Shrine Maiden",
+            "Illusionist",
+            "Gambler",
+            "Priestess",
+            "Mystic Dancer",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Fighter",
+            "Shrine Maiden",
+            "Illusionist",
+            "Gambler",
+            "Priestess",
+            "Mystic Dancer",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Mystic Dancer",
+            "Necromancer",
+            "Executioner",
+            "Berserker",
+            "Shield Bearer",
+            "Lightning Mage",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Mystic Dancer",
+            "Necromancer",
+            "Executioner",
+            "Berserker",
+            "Shield Bearer",
+            "Lightning Mage",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Mystic Dancer",
+            "Necromancer",
+            "Executioner",
+            "Berserker",
+            "Shield Bearer",
+            "Lightning Mage",
+            "Shrine Maiden"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Knight",
+            "Lightning Mage",
+            "Shrine Maiden",
+            "Cook",
+            "Priestess",
+            "Ninja",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Knight",
+            "Lightning Mage",
+            "Shrine Maiden",
+            "Cook",
+            "Priestess",
+            "Ninja",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Knight",
+            "Lightning Mage",
+            "Shrine Maiden",
+            "Cook",
+            "Priestess",
+            "Ninja",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Ninja",
+            "Werewolf",
+            "Priestess",
+            "Illusionist",
+            "Lancer",
+            "Ghost",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Ninja",
+            "Werewolf",
+            "Priestess",
+            "Illusionist",
+            "Lancer",
+            "Ghost",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Ninja",
+            "Werewolf",
+            "Priestess",
+            "Illusionist",
+            "Lancer",
+            "Ghost",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Executioner",
+            "Berserker",
+            "Magic Knight",
+            "Mystic Dancer",
+            "Exorcist",
+            "Gunner",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Executioner",
+            "Berserker",
+            "Magic Knight",
+            "Mystic Dancer",
+            "Exorcist",
+            "Gunner",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Executioner",
+            "Berserker",
+            "Magic Knight",
+            "Mystic Dancer",
+            "Exorcist",
+            "Gunner",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Cook",
+            "Lancer",
+            "Ghost",
+            "Vampire",
+            "Werewolf",
+            "Clown",
+            "Plague Doctor"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Cook",
+            "Lancer",
+            "Ghost",
+            "Vampire",
+            "Werewolf",
+            "Clown",
+            "Plague Doctor"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Cook",
+            "Lancer",
+            "Ghost",
+            "Vampire",
+            "Werewolf",
+            "Clown",
+            "Plague Doctor"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Lightning Mage",
+            "Executioner",
+            "Ninja",
+            "Poison Dart Hunter",
+            "Shrine Maiden",
+            "Exorcist",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Lightning Mage",
+            "Executioner",
+            "Ninja",
+            "Poison Dart Hunter",
+            "Shrine Maiden",
+            "Exorcist",
+            "Dual Blader"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Lightning Mage",
+            "Executioner",
+            "Ninja",
+            "Poison Dart Hunter",
+            "Shrine Maiden",
+            "Exorcist",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Boomerang Hunter",
+            "Bard",
+            "Pyromancer",
+            "Shield Bearer",
+            "Archer",
+            "Barrier Mage",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Boomerang Hunter",
+            "Bard",
+            "Pyromancer",
+            "Shield Bearer",
+            "Archer",
+            "Barrier Mage",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Boomerang Hunter",
+            "Bard",
+            "Pyromancer",
+            "Shield Bearer",
+            "Archer",
+            "Barrier Mage",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Poison Dart Hunter",
+            "Illusionist",
+            "Ghost",
+            "Exorcist",
+            "Lightning Mage",
+            "Dark Mage",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Poison Dart Hunter",
+            "Illusionist",
+            "Ghost",
+            "Exorcist",
+            "Lightning Mage",
+            "Dark Mage",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Poison Dart Hunter",
+            "Illusionist",
+            "Ghost",
+            "Exorcist",
+            "Lightning Mage",
+            "Dark Mage",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Taoist",
+            "Cold Corpse",
+            "Vampire",
+            "Sniper",
+            "Ninja",
+            "Plague Doctor",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Taoist",
+            "Cold Corpse",
+            "Vampire",
+            "Sniper",
+            "Ninja",
+            "Plague Doctor",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Taoist",
+            "Cold Corpse",
+            "Vampire",
+            "Sniper",
+            "Ninja",
+            "Plague Doctor",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Clown",
+            "Devil",
+            "Priestess",
+            "Dark Mage",
+            "Ghost",
+            "Knight",
+            "Taoist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Clown",
+            "Devil",
+            "Priestess",
+            "Dark Mage",
+            "Ghost",
+            "Knight",
+            "Taoist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Clown",
+            "Devil",
+            "Priestess",
+            "Dark Mage",
+            "Ghost",
+            "Knight",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Executioner",
+            "Ghost",
+            "Bard",
+            "Devil",
+            "Fighter",
+            "Cook",
+            "Shadowmancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Executioner",
+            "Ghost",
+            "Bard",
+            "Devil",
+            "Fighter",
+            "Cook",
+            "Shadowmancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Barrier Mage",
+            "Executioner",
+            "Ghost",
+            "Bard",
+            "Devil",
+            "Fighter",
+            "Cook",
+            "Shadowmancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Ninja",
+            "Werewolf",
+            "Dark Mage",
+            "Mystic Dancer",
+            "Taoist",
+            "Magic Knight",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Ninja",
+            "Werewolf",
+            "Dark Mage",
+            "Mystic Dancer",
+            "Taoist",
+            "Magic Knight",
+            "Sniper"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Ninja",
+            "Werewolf",
+            "Dark Mage",
+            "Mystic Dancer",
+            "Taoist",
+            "Magic Knight",
+            "Sniper"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Knight",
+            "Magic Knight",
+            "Shadowmancer",
+            "Shield Bearer",
+            "Berserker",
+            "Fighter",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Knight",
+            "Magic Knight",
+            "Shadowmancer",
+            "Shield Bearer",
+            "Berserker",
+            "Fighter",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Knight",
+            "Magic Knight",
+            "Shadowmancer",
+            "Shield Bearer",
+            "Berserker",
+            "Fighter",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Knight",
+            "Gunner",
+            "Gambler",
+            "Cook",
+            "Necromancer",
+            "Devil",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Knight",
+            "Gunner",
+            "Gambler",
+            "Cook",
+            "Necromancer",
+            "Devil",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Knight",
+            "Gunner",
+            "Gambler",
+            "Cook",
+            "Necromancer",
+            "Devil",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Ninja",
+            "Ice Mage",
+            "Swordsman",
+            "Dual Blader",
+            "Monk",
+            "Boomerang Hunter",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Ninja",
+            "Ice Mage",
+            "Swordsman",
+            "Dual Blader",
+            "Monk",
+            "Boomerang Hunter",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Ninja",
+            "Ice Mage",
+            "Swordsman",
+            "Dual Blader",
+            "Monk",
+            "Boomerang Hunter",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Priestess",
+            "Boomerang Hunter",
+            "Illusionist",
+            "Gambler",
+            "Devil",
+            "Lancer",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Priestess",
+            "Boomerang Hunter",
+            "Illusionist",
+            "Gambler",
+            "Devil",
+            "Lancer",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Priestess",
+            "Boomerang Hunter",
+            "Illusionist",
+            "Gambler",
+            "Devil",
+            "Lancer",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Lancer",
+            "Dual Blader",
+            "Necromancer",
+            "Shield Bearer",
+            "Monk",
+            "Dark Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Lancer",
+            "Dual Blader",
+            "Necromancer",
+            "Shield Bearer",
+            "Monk",
+            "Dark Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Lancer",
+            "Dual Blader",
+            "Necromancer",
+            "Shield Bearer",
+            "Monk",
+            "Dark Mage",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Ice Mage",
+            "Lightning Mage",
+            "Shadowmancer",
+            "Archer",
+            "Knight",
+            "Gunner",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Ice Mage",
+            "Lightning Mage",
+            "Shadowmancer",
+            "Archer",
+            "Knight",
+            "Gunner",
+            "Illusionist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Ice Mage",
+            "Lightning Mage",
+            "Shadowmancer",
+            "Archer",
+            "Knight",
+            "Gunner",
+            "Illusionist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Necromancer",
+            "Lancer",
+            "Berserker",
+            "Dual Blader",
+            "Priestess",
+            "Ogre",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Necromancer",
+            "Lancer",
+            "Berserker",
+            "Dual Blader",
+            "Priestess",
+            "Ogre",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Necromancer",
+            "Lancer",
+            "Berserker",
+            "Dual Blader",
+            "Priestess",
+            "Ogre",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Bard",
+            "Dual Blader",
+            "Exorcist",
+            "Priestess",
+            "Ghost",
+            "Werewolf",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Bard",
+            "Dual Blader",
+            "Exorcist",
+            "Priestess",
+            "Ghost",
+            "Werewolf",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lancer",
+            "Bard",
+            "Dual Blader",
+            "Exorcist",
+            "Priestess",
+            "Ghost",
+            "Werewolf",
+            "Clown"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Sniper",
+            "Archer",
+            "Fighter",
+            "Barrier Mage",
+            "Dark Mage",
+            "Ghost",
+            "Mystic Dancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Sniper",
+            "Archer",
+            "Fighter",
+            "Barrier Mage",
+            "Dark Mage",
+            "Ghost",
+            "Mystic Dancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Sniper",
+            "Archer",
+            "Fighter",
+            "Barrier Mage",
+            "Dark Mage",
+            "Ghost",
+            "Mystic Dancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Monk",
+            "Pyromancer",
+            "Ghost",
+            "Vampire",
+            "Clown",
+            "Swordsman",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Monk",
+            "Pyromancer",
+            "Ghost",
+            "Vampire",
+            "Clown",
+            "Swordsman",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Monk",
+            "Pyromancer",
+            "Ghost",
+            "Vampire",
+            "Clown",
+            "Swordsman",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Shrine Maiden",
+            "Ghost",
+            "Executioner",
+            "Priestess",
+            "Cold Corpse",
+            "Pyromancer",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Shrine Maiden",
+            "Ghost",
+            "Executioner",
+            "Priestess",
+            "Cold Corpse",
+            "Pyromancer",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Shrine Maiden",
+            "Ghost",
+            "Executioner",
+            "Priestess",
+            "Cold Corpse",
+            "Pyromancer",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Lancer",
+            "Archer",
+            "Werewolf",
+            "Necromancer",
+            "Dual Blader",
+            "Lightning Mage",
+            "Barrier Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Lancer",
+            "Archer",
+            "Werewolf",
+            "Necromancer",
+            "Dual Blader",
+            "Lightning Mage",
+            "Barrier Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Lancer",
+            "Archer",
+            "Werewolf",
+            "Necromancer",
+            "Dual Blader",
+            "Lightning Mage",
+            "Barrier Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Boomerang Hunter",
+            "Werewolf",
+            "Shield Bearer",
+            "Poison Dart Hunter",
+            "Monk",
+            "Priestess",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Boomerang Hunter",
+            "Werewolf",
+            "Shield Bearer",
+            "Poison Dart Hunter",
+            "Monk",
+            "Priestess",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Boomerang Hunter",
+            "Werewolf",
+            "Shield Bearer",
+            "Poison Dart Hunter",
+            "Monk",
+            "Priestess",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Vampire",
+            "Sniper",
+            "Plague Doctor",
+            "Barrier Mage",
+            "Necromancer",
+            "Dark Mage",
+            "Poison Dart Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Vampire",
+            "Sniper",
+            "Plague Doctor",
+            "Barrier Mage",
+            "Necromancer",
+            "Dark Mage",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Vampire",
+            "Sniper",
+            "Plague Doctor",
+            "Barrier Mage",
+            "Necromancer",
+            "Dark Mage",
+            "Poison Dart Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Shrine Maiden",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Berserker",
+            "Boomerang Hunter",
+            "Plague Doctor",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Shrine Maiden",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Berserker",
+            "Boomerang Hunter",
+            "Plague Doctor",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Shrine Maiden",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Berserker",
+            "Boomerang Hunter",
+            "Plague Doctor",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Taoist",
+            "Cook",
+            "Archer",
+            "Boomerang Hunter",
+            "Necromancer",
+            "Executioner",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Taoist",
+            "Cook",
+            "Archer",
+            "Boomerang Hunter",
+            "Necromancer",
+            "Executioner",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Taoist",
+            "Cook",
+            "Archer",
+            "Boomerang Hunter",
+            "Necromancer",
+            "Executioner",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Ghost",
+            "Taoist",
+            "Barrier Mage",
+            "Mystic Dancer",
+            "Monk",
+            "Devil",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Ghost",
+            "Taoist",
+            "Barrier Mage",
+            "Mystic Dancer",
+            "Monk",
+            "Devil",
+            "Illusionist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Ghost",
+            "Taoist",
+            "Barrier Mage",
+            "Mystic Dancer",
+            "Monk",
+            "Devil",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Shrine Maiden",
+            "Archer",
+            "Cold Corpse",
+            "Ogre",
+            "Werewolf",
+            "Ninja",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Shrine Maiden",
+            "Archer",
+            "Cold Corpse",
+            "Ogre",
+            "Werewolf",
+            "Ninja",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Shrine Maiden",
+            "Archer",
+            "Cold Corpse",
+            "Ogre",
+            "Werewolf",
+            "Ninja",
+            "Illusionist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Poison Dart Hunter",
+            "Boomerang Hunter",
+            "Fighter",
+            "Swordsman",
+            "Magic Knight",
+            "Archer",
+            "Cold Corpse"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Poison Dart Hunter",
+            "Boomerang Hunter",
+            "Fighter",
+            "Swordsman",
+            "Magic Knight",
+            "Archer",
+            "Cold Corpse"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Poison Dart Hunter",
+            "Boomerang Hunter",
+            "Fighter",
+            "Swordsman",
+            "Magic Knight",
+            "Archer",
+            "Cold Corpse"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Shadowmancer",
+            "Fighter",
+            "Berserker",
+            "Boomerang Hunter",
+            "Ice Mage",
+            "Exorcist",
+            "Barrier Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Shadowmancer",
+            "Fighter",
+            "Berserker",
+            "Boomerang Hunter",
+            "Ice Mage",
+            "Exorcist",
+            "Barrier Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Shadowmancer",
+            "Fighter",
+            "Berserker",
+            "Boomerang Hunter",
+            "Ice Mage",
+            "Exorcist",
+            "Barrier Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Swordsman",
+            "Clown",
+            "Sniper",
+            "Archer",
+            "Shield Bearer",
+            "Exorcist",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Swordsman",
+            "Clown",
+            "Sniper",
+            "Archer",
+            "Shield Bearer",
+            "Exorcist",
+            "Dual Blader"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Swordsman",
+            "Clown",
+            "Sniper",
+            "Archer",
+            "Shield Bearer",
+            "Exorcist",
+            "Dual Blader"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Clown",
+            "Knight",
+            "Lightning Mage",
+            "Necromancer",
+            "Shadowmancer",
+            "Priestess",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Clown",
+            "Knight",
+            "Lightning Mage",
+            "Necromancer",
+            "Shadowmancer",
+            "Priestess",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Clown",
+            "Knight",
+            "Lightning Mage",
+            "Necromancer",
+            "Shadowmancer",
+            "Priestess",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Knight",
+            "Dark Mage",
+            "Ogre",
+            "Ghost",
+            "Barrier Mage",
+            "Archer",
+            "Gambler"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Knight",
+            "Dark Mage",
+            "Ogre",
+            "Ghost",
+            "Barrier Mage",
+            "Archer",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Knight",
+            "Dark Mage",
+            "Ogre",
+            "Ghost",
+            "Barrier Mage",
+            "Archer",
+            "Gambler"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Archer",
+            "Shadowmancer",
+            "Pyromancer",
+            "Devil",
+            "Magic Knight",
+            "Ice Mage",
+            "Priestess"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Archer",
+            "Shadowmancer",
+            "Pyromancer",
+            "Devil",
+            "Magic Knight",
+            "Ice Mage",
+            "Priestess"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Archer",
+            "Shadowmancer",
+            "Pyromancer",
+            "Devil",
+            "Magic Knight",
+            "Ice Mage",
+            "Priestess"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Monk",
+            "Lightning Mage",
+            "Gunner",
+            "Ogre",
+            "Shrine Maiden",
+            "Knight",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Monk",
+            "Lightning Mage",
+            "Gunner",
+            "Ogre",
+            "Shrine Maiden",
+            "Knight",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Plague Doctor",
+            "Monk",
+            "Lightning Mage",
+            "Gunner",
+            "Ogre",
+            "Shrine Maiden",
+            "Knight",
+            "Archer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Mystic Dancer",
+            "Knight",
+            "Swordsman",
+            "Cook",
+            "Monk",
+            "Devil",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Mystic Dancer",
+            "Knight",
+            "Swordsman",
+            "Cook",
+            "Monk",
+            "Devil",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Magic Knight",
+            "Mystic Dancer",
+            "Knight",
+            "Swordsman",
+            "Cook",
+            "Monk",
+            "Devil",
+            "Sniper"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Clown",
+            "Lancer",
+            "Bard",
+            "Lightning Mage",
+            "Knight",
+            "Dual Blader",
+            "Vampire"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Clown",
+            "Lancer",
+            "Bard",
+            "Lightning Mage",
+            "Knight",
+            "Dual Blader",
+            "Vampire"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Clown",
+            "Lancer",
+            "Bard",
+            "Lightning Mage",
+            "Knight",
+            "Dual Blader",
+            "Vampire"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Cold Corpse",
+            "Vampire",
+            "Executioner",
+            "Ghost",
+            "Werewolf",
+            "Bard",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Cold Corpse",
+            "Vampire",
+            "Executioner",
+            "Ghost",
+            "Werewolf",
+            "Bard",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Cold Corpse",
+            "Vampire",
+            "Executioner",
+            "Ghost",
+            "Werewolf",
+            "Bard",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Magic Knight",
+            "Fighter",
+            "Executioner",
+            "Swordsman",
+            "Priestess",
+            "Knight",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Magic Knight",
+            "Fighter",
+            "Executioner",
+            "Swordsman",
+            "Priestess",
+            "Knight",
+            "Werewolf"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ice Mage",
+            "Magic Knight",
+            "Fighter",
+            "Executioner",
+            "Swordsman",
+            "Priestess",
+            "Knight",
+            "Werewolf"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Cook",
+            "Shield Bearer",
+            "Dual Blader",
+            "Illusionist",
+            "Dark Mage",
+            "Knight",
+            "Boomerang Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Cook",
+            "Shield Bearer",
+            "Dual Blader",
+            "Illusionist",
+            "Dark Mage",
+            "Knight",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Cook",
+            "Shield Bearer",
+            "Dual Blader",
+            "Illusionist",
+            "Dark Mage",
+            "Knight",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Magic Knight",
+            "Shield Bearer",
+            "Shadowmancer",
+            "Gambler",
+            "Mystic Dancer",
+            "Ice Mage",
+            "Ghost"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Magic Knight",
+            "Shield Bearer",
+            "Shadowmancer",
+            "Gambler",
+            "Mystic Dancer",
+            "Ice Mage",
+            "Ghost"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Magic Knight",
+            "Shield Bearer",
+            "Shadowmancer",
+            "Gambler",
+            "Mystic Dancer",
+            "Ice Mage",
+            "Ghost"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Gunner",
+            "Barrier Mage",
+            "Clown",
+            "Ghost",
+            "Ninja",
+            "Shield Bearer",
+            "Priestess"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Gunner",
+            "Barrier Mage",
+            "Clown",
+            "Ghost",
+            "Ninja",
+            "Shield Bearer",
+            "Priestess"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shrine Maiden",
+            "Gunner",
+            "Barrier Mage",
+            "Clown",
+            "Ghost",
+            "Ninja",
+            "Shield Bearer",
+            "Priestess"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Berserker",
+            "Cook",
+            "Swordsman",
+            "Exorcist",
+            "Magic Knight",
+            "Ninja",
+            "Shadowmancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Berserker",
+            "Cook",
+            "Swordsman",
+            "Exorcist",
+            "Magic Knight",
+            "Ninja",
+            "Shadowmancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Berserker",
+            "Cook",
+            "Swordsman",
+            "Exorcist",
+            "Magic Knight",
+            "Ninja",
+            "Shadowmancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Cold Corpse",
+            "Devil",
+            "Poison Dart Hunter",
+            "Cook",
+            "Dual Blader",
+            "Ogre",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Cold Corpse",
+            "Devil",
+            "Poison Dart Hunter",
+            "Cook",
+            "Dual Blader",
+            "Ogre",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Cold Corpse",
+            "Devil",
+            "Poison Dart Hunter",
+            "Cook",
+            "Dual Blader",
+            "Ogre",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Shrine Maiden",
+            "Lightning Mage",
+            "Magic Knight",
+            "Clown",
+            "Illusionist",
+            "Werewolf",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Shrine Maiden",
+            "Lightning Mage",
+            "Magic Knight",
+            "Clown",
+            "Illusionist",
+            "Werewolf",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Shrine Maiden",
+            "Lightning Mage",
+            "Magic Knight",
+            "Clown",
+            "Illusionist",
+            "Werewolf",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Barrier Mage",
+            "Lancer",
+            "Illusionist",
+            "Archer",
+            "Executioner",
+            "Pyromancer",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Barrier Mage",
+            "Lancer",
+            "Illusionist",
+            "Archer",
+            "Executioner",
+            "Pyromancer",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shield Bearer",
+            "Barrier Mage",
+            "Lancer",
+            "Illusionist",
+            "Archer",
+            "Executioner",
+            "Pyromancer",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Necromancer",
+            "Swordsman",
+            "Bard",
+            "Ogre",
+            "Shield Bearer",
+            "Magic Knight",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Necromancer",
+            "Swordsman",
+            "Bard",
+            "Ogre",
+            "Shield Bearer",
+            "Magic Knight",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Necromancer",
+            "Swordsman",
+            "Bard",
+            "Ogre",
+            "Shield Bearer",
+            "Magic Knight",
+            "Shrine Maiden"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Boomerang Hunter",
+            "Magic Knight",
+            "Berserker",
+            "Archer",
+            "Ninja",
+            "Monk",
+            "Dark Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Boomerang Hunter",
+            "Magic Knight",
+            "Berserker",
+            "Archer",
+            "Ninja",
+            "Monk",
+            "Dark Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Boomerang Hunter",
+            "Magic Knight",
+            "Berserker",
+            "Archer",
+            "Ninja",
+            "Monk",
+            "Dark Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Vampire",
+            "Clown",
+            "Boomerang Hunter",
+            "Executioner",
+            "Shadowmancer",
+            "Gambler",
+            "Exorcist",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Vampire",
+            "Clown",
+            "Boomerang Hunter",
+            "Executioner",
+            "Shadowmancer",
+            "Gambler",
+            "Exorcist",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Vampire",
+            "Clown",
+            "Boomerang Hunter",
+            "Executioner",
+            "Shadowmancer",
+            "Gambler",
+            "Exorcist",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Lightning Mage",
+            "Gambler",
+            "Clown",
+            "Archer",
+            "Gunner",
+            "Cook",
+            "Taoist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Lightning Mage",
+            "Gambler",
+            "Clown",
+            "Archer",
+            "Gunner",
+            "Cook",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Lightning Mage",
+            "Gambler",
+            "Clown",
+            "Archer",
+            "Gunner",
+            "Cook",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Gunner",
+            "Dual Blader",
+            "Cook",
+            "Lightning Mage",
+            "Pyromancer",
+            "Ice Mage",
+            "Dark Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Gunner",
+            "Dual Blader",
+            "Cook",
+            "Lightning Mage",
+            "Pyromancer",
+            "Ice Mage",
+            "Dark Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Berserker",
+            "Gunner",
+            "Dual Blader",
+            "Cook",
+            "Lightning Mage",
+            "Pyromancer",
+            "Ice Mage",
+            "Dark Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Shadowmancer",
+            "Cold Corpse",
+            "Dark Mage",
+            "Vampire",
+            "Swordsman",
+            "Necromancer",
+            "Ghost"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Shadowmancer",
+            "Cold Corpse",
+            "Dark Mage",
+            "Vampire",
+            "Swordsman",
+            "Necromancer",
+            "Ghost"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Boomerang Hunter",
+            "Shadowmancer",
+            "Cold Corpse",
+            "Dark Mage",
+            "Vampire",
+            "Swordsman",
+            "Necromancer",
+            "Ghost"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Ogre",
+            "Taoist",
+            "Knight",
+            "Priestess",
+            "Sniper",
+            "Vampire",
+            "Archer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Ogre",
+            "Taoist",
+            "Knight",
+            "Priestess",
+            "Sniper",
+            "Vampire",
+            "Archer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Ogre",
+            "Taoist",
+            "Knight",
+            "Priestess",
+            "Sniper",
+            "Vampire",
+            "Archer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Plague Doctor",
+            "Knight",
+            "Magic Knight",
+            "Gunner",
+            "Boomerang Hunter",
+            "Bard",
+            "Ninja"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Plague Doctor",
+            "Knight",
+            "Magic Knight",
+            "Gunner",
+            "Boomerang Hunter",
+            "Bard",
+            "Ninja"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Taoist",
+            "Plague Doctor",
+            "Knight",
+            "Magic Knight",
+            "Gunner",
+            "Boomerang Hunter",
+            "Bard",
+            "Ninja"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Gunner",
+            "Pyromancer",
+            "Poison Dart Hunter",
+            "Monk",
+            "Priestess",
+            "Vampire",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Gunner",
+            "Pyromancer",
+            "Poison Dart Hunter",
+            "Monk",
+            "Priestess",
+            "Vampire",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Gunner",
+            "Pyromancer",
+            "Poison Dart Hunter",
+            "Monk",
+            "Priestess",
+            "Vampire",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Pyromancer",
+            "Boomerang Hunter",
+            "Shadowmancer",
+            "Ghost",
+            "Sniper",
+            "Fighter",
+            "Plague Doctor"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Pyromancer",
+            "Boomerang Hunter",
+            "Shadowmancer",
+            "Ghost",
+            "Sniper",
+            "Fighter",
+            "Plague Doctor"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Pyromancer",
+            "Boomerang Hunter",
+            "Shadowmancer",
+            "Ghost",
+            "Sniper",
+            "Fighter",
+            "Plague Doctor"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Executioner",
+            "Poison Dart Hunter",
+            "Shadowmancer",
+            "Shield Bearer",
+            "Shrine Maiden",
+            "Barrier Mage",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Executioner",
+            "Poison Dart Hunter",
+            "Shadowmancer",
+            "Shield Bearer",
+            "Shrine Maiden",
+            "Barrier Mage",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Executioner",
+            "Poison Dart Hunter",
+            "Shadowmancer",
+            "Shield Bearer",
+            "Shrine Maiden",
+            "Barrier Mage",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Knight",
+            "Fighter",
+            "Sniper",
+            "Boomerang Hunter",
+            "Dark Mage",
+            "Gambler",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Knight",
+            "Fighter",
+            "Sniper",
+            "Boomerang Hunter",
+            "Dark Mage",
+            "Gambler",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Knight",
+            "Fighter",
+            "Sniper",
+            "Boomerang Hunter",
+            "Dark Mage",
+            "Gambler",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Monk",
+            "Necromancer",
+            "Exorcist",
+            "Magic Knight",
+            "Archer",
+            "Shrine Maiden",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Monk",
+            "Necromancer",
+            "Exorcist",
+            "Magic Knight",
+            "Archer",
+            "Shrine Maiden",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Monk",
+            "Necromancer",
+            "Exorcist",
+            "Magic Knight",
+            "Archer",
+            "Shrine Maiden",
+            "Boomerang Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Dual Blader",
+            "Cold Corpse",
+            "Lancer",
+            "Plague Doctor",
+            "Magic Knight",
+            "Archer",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Dual Blader",
+            "Cold Corpse",
+            "Lancer",
+            "Plague Doctor",
+            "Magic Knight",
+            "Archer",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Sniper",
+            "Dual Blader",
+            "Cold Corpse",
+            "Lancer",
+            "Plague Doctor",
+            "Magic Knight",
+            "Archer",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Priestess",
+            "Gunner",
+            "Devil",
+            "Werewolf",
+            "Archer",
+            "Taoist",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Priestess",
+            "Gunner",
+            "Devil",
+            "Werewolf",
+            "Archer",
+            "Taoist",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Priestess",
+            "Gunner",
+            "Devil",
+            "Werewolf",
+            "Archer",
+            "Taoist",
+            "Lightning Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Ice Mage",
+            "Dark Mage",
+            "Dual Blader",
+            "Executioner",
+            "Berserker",
+            "Clown",
+            "Boomerang Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Ice Mage",
+            "Dark Mage",
+            "Dual Blader",
+            "Executioner",
+            "Berserker",
+            "Clown",
+            "Boomerang Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Ice Mage",
+            "Dark Mage",
+            "Dual Blader",
+            "Executioner",
+            "Berserker",
+            "Clown",
+            "Boomerang Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Vampire",
+            "Swordsman",
+            "Lightning Mage",
+            "Sniper",
+            "Dark Mage",
+            "Ghost",
+            "Devil"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Vampire",
+            "Swordsman",
+            "Lightning Mage",
+            "Sniper",
+            "Dark Mage",
+            "Ghost",
+            "Devil"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Monk",
+            "Vampire",
+            "Swordsman",
+            "Lightning Mage",
+            "Sniper",
+            "Dark Mage",
+            "Ghost",
+            "Devil"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Exorcist",
+            "Necromancer",
+            "Monk",
+            "Ogre",
+            "Werewolf",
+            "Clown",
+            "Barrier Mage",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Exorcist",
+            "Necromancer",
+            "Monk",
+            "Ogre",
+            "Werewolf",
+            "Clown",
+            "Barrier Mage",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Exorcist",
+            "Necromancer",
+            "Monk",
+            "Ogre",
+            "Werewolf",
+            "Clown",
+            "Barrier Mage",
+            "Sniper"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Plague Doctor",
+            "Priestess",
+            "Ice Mage",
+            "Dark Mage",
+            "Sniper",
+            "Knight",
+            "Lancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Plague Doctor",
+            "Priestess",
+            "Ice Mage",
+            "Dark Mage",
+            "Sniper",
+            "Knight",
+            "Lancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Plague Doctor",
+            "Priestess",
+            "Ice Mage",
+            "Dark Mage",
+            "Sniper",
+            "Knight",
+            "Lancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Illusionist",
+            "Ogre",
+            "Shrine Maiden",
+            "Poison Dart Hunter",
+            "Executioner",
+            "Ice Mage",
+            "Monk"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Illusionist",
+            "Ogre",
+            "Shrine Maiden",
+            "Poison Dart Hunter",
+            "Executioner",
+            "Ice Mage",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Illusionist",
+            "Ogre",
+            "Shrine Maiden",
+            "Poison Dart Hunter",
+            "Executioner",
+            "Ice Mage",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Boomerang Hunter",
+            "Exorcist",
+            "Mystic Dancer",
+            "Necromancer",
+            "Executioner",
+            "Lancer",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Boomerang Hunter",
+            "Exorcist",
+            "Mystic Dancer",
+            "Necromancer",
+            "Executioner",
+            "Lancer",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Boomerang Hunter",
+            "Exorcist",
+            "Mystic Dancer",
+            "Necromancer",
+            "Executioner",
+            "Lancer",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Vampire",
+            "Shadowmancer",
+            "Knight",
+            "Ninja",
+            "Cold Corpse",
+            "Swordsman",
+            "Executioner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Vampire",
+            "Shadowmancer",
+            "Knight",
+            "Ninja",
+            "Cold Corpse",
+            "Swordsman",
+            "Executioner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Vampire",
+            "Shadowmancer",
+            "Knight",
+            "Ninja",
+            "Cold Corpse",
+            "Swordsman",
+            "Executioner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Barrier Mage",
+            "Poison Dart Hunter",
+            "Taoist",
+            "Ice Mage",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Barrier Mage",
+            "Poison Dart Hunter",
+            "Taoist",
+            "Ice Mage",
+            "Exorcist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Pyromancer",
+            "Mystic Dancer",
+            "Barrier Mage",
+            "Poison Dart Hunter",
+            "Taoist",
+            "Ice Mage",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lightning Mage",
+            "Gambler",
+            "Executioner",
+            "Poison Dart Hunter",
+            "Archer",
+            "Shadowmancer",
+            "Monk",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lightning Mage",
+            "Gambler",
+            "Executioner",
+            "Poison Dart Hunter",
+            "Archer",
+            "Shadowmancer",
+            "Monk",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lightning Mage",
+            "Gambler",
+            "Executioner",
+            "Poison Dart Hunter",
+            "Archer",
+            "Shadowmancer",
+            "Monk",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Shrine Maiden",
+            "Ghost",
+            "Clown",
+            "Illusionist",
+            "Ninja",
+            "Taoist",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Shrine Maiden",
+            "Ghost",
+            "Clown",
+            "Illusionist",
+            "Ninja",
+            "Taoist",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Shrine Maiden",
+            "Ghost",
+            "Clown",
+            "Illusionist",
+            "Ninja",
+            "Taoist",
+            "Cook"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Cook",
+            "Lightning Mage",
+            "Sniper",
+            "Archer",
+            "Vampire",
+            "Bard",
+            "Clown"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Cook",
+            "Lightning Mage",
+            "Sniper",
+            "Archer",
+            "Vampire",
+            "Bard",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Cook",
+            "Lightning Mage",
+            "Sniper",
+            "Archer",
+            "Vampire",
+            "Bard",
+            "Clown"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Clown",
+            "Swordsman",
+            "Ogre",
+            "Dual Blader",
+            "Mystic Dancer",
+            "Devil",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Clown",
+            "Swordsman",
+            "Ogre",
+            "Dual Blader",
+            "Mystic Dancer",
+            "Devil",
+            "Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Werewolf",
+            "Clown",
+            "Swordsman",
+            "Ogre",
+            "Dual Blader",
+            "Mystic Dancer",
+            "Devil",
+            "Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Executioner",
+            "Pyromancer",
+            "Ogre",
+            "Fighter",
+            "Poison Dart Hunter",
+            "Barrier Mage",
+            "Werewolf"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Executioner",
+            "Pyromancer",
+            "Ogre",
+            "Fighter",
+            "Poison Dart Hunter",
+            "Barrier Mage",
+            "Werewolf"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Executioner",
+            "Pyromancer",
+            "Ogre",
+            "Fighter",
+            "Poison Dart Hunter",
+            "Barrier Mage",
+            "Werewolf"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Clown",
+            "Gunner",
+            "Swordsman",
+            "Taoist",
+            "Fighter",
+            "Lightning Mage",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Clown",
+            "Gunner",
+            "Swordsman",
+            "Taoist",
+            "Fighter",
+            "Lightning Mage",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Dark Mage",
+            "Clown",
+            "Gunner",
+            "Swordsman",
+            "Taoist",
+            "Fighter",
+            "Lightning Mage",
+            "Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Dark Mage",
+            "Gunner",
+            "Vampire",
+            "Magic Knight",
+            "Berserker",
+            "Barrier Mage",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Dark Mage",
+            "Gunner",
+            "Vampire",
+            "Magic Knight",
+            "Berserker",
+            "Barrier Mage",
+            "Ogre"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Gambler",
+            "Dark Mage",
+            "Gunner",
+            "Vampire",
+            "Magic Knight",
+            "Berserker",
+            "Barrier Mage",
+            "Ogre"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Bard",
+            "Devil",
+            "Ice Mage",
+            "Taoist",
+            "Dual Blader",
+            "Ogre",
+            "Plague Doctor"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Bard",
+            "Devil",
+            "Ice Mage",
+            "Taoist",
+            "Dual Blader",
+            "Ogre",
+            "Plague Doctor"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ghost",
+            "Bard",
+            "Devil",
+            "Ice Mage",
+            "Taoist",
+            "Dual Blader",
+            "Ogre",
+            "Plague Doctor"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Mystic Dancer",
+            "Poison Dart Hunter",
+            "Devil",
+            "Fighter",
+            "Illusionist",
+            "Boomerang Hunter",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Mystic Dancer",
+            "Poison Dart Hunter",
+            "Devil",
+            "Fighter",
+            "Illusionist",
+            "Boomerang Hunter",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Ninja",
+            "Mystic Dancer",
+            "Poison Dart Hunter",
+            "Devil",
+            "Fighter",
+            "Illusionist",
+            "Boomerang Hunter",
+            "Cook"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Bard",
+            "Shadowmancer",
+            "Mystic Dancer",
+            "Vampire",
+            "Shield Bearer",
+            "Dark Mage",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Bard",
+            "Shadowmancer",
+            "Mystic Dancer",
+            "Vampire",
+            "Shield Bearer",
+            "Dark Mage",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Pyromancer",
+            "Bard",
+            "Shadowmancer",
+            "Mystic Dancer",
+            "Vampire",
+            "Shield Bearer",
+            "Dark Mage",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Magic Knight",
+            "Necromancer",
+            "Dual Blader",
+            "Knight",
+            "Ogre",
+            "Taoist",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Magic Knight",
+            "Necromancer",
+            "Dual Blader",
+            "Knight",
+            "Ogre",
+            "Taoist",
+            "Pyromancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Magic Knight",
+            "Necromancer",
+            "Dual Blader",
+            "Knight",
+            "Ogre",
+            "Taoist",
+            "Pyromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Taoist",
+            "Clown",
+            "Lancer",
+            "Devil",
+            "Fighter",
+            "Ice Mage",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Taoist",
+            "Clown",
+            "Lancer",
+            "Devil",
+            "Fighter",
+            "Ice Mage",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Taoist",
+            "Clown",
+            "Lancer",
+            "Devil",
+            "Fighter",
+            "Ice Mage",
+            "Gambler"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Shield Bearer",
+            "Poison Dart Hunter",
+            "Mystic Dancer",
+            "Illusionist",
+            "Vampire",
+            "Swordsman",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Shield Bearer",
+            "Poison Dart Hunter",
+            "Mystic Dancer",
+            "Illusionist",
+            "Vampire",
+            "Swordsman",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Devil",
+            "Shield Bearer",
+            "Poison Dart Hunter",
+            "Mystic Dancer",
+            "Illusionist",
+            "Vampire",
+            "Swordsman",
+            "Gunner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Berserker",
+            "Monk",
+            "Ice Mage",
+            "Lightning Mage",
+            "Clown",
+            "Lancer",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Berserker",
+            "Monk",
+            "Ice Mage",
+            "Lightning Mage",
+            "Clown",
+            "Lancer",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Priestess",
+            "Berserker",
+            "Monk",
+            "Ice Mage",
+            "Lightning Mage",
+            "Clown",
+            "Lancer",
+            "Archer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Lightning Mage",
+            "Werewolf",
+            "Executioner",
+            "Ogre",
+            "Dual Blader",
+            "Shrine Maiden",
+            "Ninja",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lightning Mage",
+            "Werewolf",
+            "Executioner",
+            "Ogre",
+            "Dual Blader",
+            "Shrine Maiden",
+            "Ninja",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Lightning Mage",
+            "Werewolf",
+            "Executioner",
+            "Ogre",
+            "Dual Blader",
+            "Shrine Maiden",
+            "Ninja",
+            "Clown"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Magic Knight",
+            "Monk",
+            "Priestess",
+            "Gunner",
+            "Executioner",
+            "Swordsman",
+            "Taoist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Magic Knight",
+            "Monk",
+            "Priestess",
+            "Gunner",
+            "Executioner",
+            "Swordsman",
+            "Taoist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Magic Knight",
+            "Monk",
+            "Priestess",
+            "Gunner",
+            "Executioner",
+            "Swordsman",
+            "Taoist"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Swordsman",
+            "Knight",
+            "Taoist",
+            "Lancer",
+            "Ninja",
+            "Gunner",
+            "Berserker"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Swordsman",
+            "Knight",
+            "Taoist",
+            "Lancer",
+            "Ninja",
+            "Gunner",
+            "Berserker"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Necromancer",
+            "Swordsman",
+            "Knight",
+            "Taoist",
+            "Lancer",
+            "Ninja",
+            "Gunner",
+            "Berserker"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Gunner",
+            "Ghost",
+            "Boomerang Hunter",
+            "Dark Mage",
+            "Pyromancer",
+            "Shrine Maiden",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Gunner",
+            "Ghost",
+            "Boomerang Hunter",
+            "Dark Mage",
+            "Pyromancer",
+            "Shrine Maiden",
+            "Fighter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Gunner",
+            "Ghost",
+            "Boomerang Hunter",
+            "Dark Mage",
+            "Pyromancer",
+            "Shrine Maiden",
+            "Fighter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Shadowmancer",
+            "Priestess",
+            "Boomerang Hunter",
+            "Shield Bearer",
+            "Mystic Dancer",
+            "Ogre",
+            "Ice Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Shadowmancer",
+            "Priestess",
+            "Boomerang Hunter",
+            "Shield Bearer",
+            "Mystic Dancer",
+            "Ogre",
+            "Ice Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Swordsman",
+            "Shadowmancer",
+            "Priestess",
+            "Boomerang Hunter",
+            "Shield Bearer",
+            "Mystic Dancer",
+            "Ogre",
+            "Ice Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Poison Dart Hunter",
+            "Mystic Dancer",
+            "Werewolf",
+            "Ghost",
+            "Berserker",
+            "Sniper",
+            "Shield Bearer",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Poison Dart Hunter",
+            "Mystic Dancer",
+            "Werewolf",
+            "Ghost",
+            "Berserker",
+            "Sniper",
+            "Shield Bearer",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Poison Dart Hunter",
+            "Mystic Dancer",
+            "Werewolf",
+            "Ghost",
+            "Berserker",
+            "Sniper",
+            "Shield Bearer",
+            "Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Clown",
+            "Dark Mage",
+            "Devil",
+            "Necromancer",
+            "Sniper",
+            "Archer",
+            "Bard"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Clown",
+            "Dark Mage",
+            "Devil",
+            "Necromancer",
+            "Sniper",
+            "Archer",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Clown",
+            "Dark Mage",
+            "Devil",
+            "Necromancer",
+            "Sniper",
+            "Archer",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Ninja",
+            "Werewolf",
+            "Cook",
+            "Priestess",
+            "Monk",
+            "Gambler",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Ninja",
+            "Werewolf",
+            "Cook",
+            "Priestess",
+            "Monk",
+            "Gambler",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Ninja",
+            "Werewolf",
+            "Cook",
+            "Priestess",
+            "Monk",
+            "Gambler",
+            "Exorcist"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Exorcist",
+            "Ice Mage",
+            "Mystic Dancer",
+            "Dual Blader",
+            "Boomerang Hunter",
+            "Lancer",
+            "Archer",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Exorcist",
+            "Ice Mage",
+            "Mystic Dancer",
+            "Dual Blader",
+            "Boomerang Hunter",
+            "Lancer",
+            "Archer",
+            "Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Exorcist",
+            "Ice Mage",
+            "Mystic Dancer",
+            "Dual Blader",
+            "Boomerang Hunter",
+            "Lancer",
+            "Archer",
+            "Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Boomerang Hunter",
+            "Executioner",
+            "Barrier Mage",
+            "Plague Doctor",
+            "Shield Bearer",
+            "Vampire",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Boomerang Hunter",
+            "Executioner",
+            "Barrier Mage",
+            "Plague Doctor",
+            "Shield Bearer",
+            "Vampire",
+            "Swordsman"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Archer",
+            "Boomerang Hunter",
+            "Executioner",
+            "Barrier Mage",
+            "Plague Doctor",
+            "Shield Bearer",
+            "Vampire",
+            "Swordsman"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Taoist",
+            "Executioner",
+            "Clown",
+            "Sniper",
+            "Ninja",
+            "Fighter",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Taoist",
+            "Executioner",
+            "Clown",
+            "Sniper",
+            "Ninja",
+            "Fighter",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Taoist",
+            "Executioner",
+            "Clown",
+            "Sniper",
+            "Ninja",
+            "Fighter",
+            "Knight"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Gambler",
+            "Bard",
+            "Boomerang Hunter",
+            "Plague Doctor",
+            "Lancer",
+            "Ice Mage",
+            "Executioner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Gambler",
+            "Bard",
+            "Boomerang Hunter",
+            "Plague Doctor",
+            "Lancer",
+            "Ice Mage",
+            "Executioner"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Ogre",
+            "Gambler",
+            "Bard",
+            "Boomerang Hunter",
+            "Plague Doctor",
+            "Lancer",
+            "Ice Mage",
+            "Executioner"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Vampire",
+            "Shrine Maiden",
+            "Necromancer",
+            "Boomerang Hunter",
+            "Ninja",
+            "Barrier Mage",
+            "Lancer",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Vampire",
+            "Shrine Maiden",
+            "Necromancer",
+            "Boomerang Hunter",
+            "Ninja",
+            "Barrier Mage",
+            "Lancer",
+            "Poison Dart Hunter"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Vampire",
+            "Shrine Maiden",
+            "Necromancer",
+            "Boomerang Hunter",
+            "Ninja",
+            "Barrier Mage",
+            "Lancer",
+            "Poison Dart Hunter"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Lancer",
+            "Monk",
+            "Bard",
+            "Swordsman",
+            "Shrine Maiden",
+            "Cold Corpse",
+            "Devil"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Lancer",
+            "Monk",
+            "Bard",
+            "Swordsman",
+            "Shrine Maiden",
+            "Cold Corpse",
+            "Devil"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Knight",
+            "Lancer",
+            "Monk",
+            "Bard",
+            "Swordsman",
+            "Shrine Maiden",
+            "Cold Corpse",
+            "Devil"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Dual Blader",
+            "Ghost",
+            "Sniper",
+            "Shadowmancer",
+            "Ogre",
+            "Exorcist",
+            "Bard"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Dual Blader",
+            "Ghost",
+            "Sniper",
+            "Shadowmancer",
+            "Ogre",
+            "Exorcist",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Mystic Dancer",
+            "Dual Blader",
+            "Ghost",
+            "Sniper",
+            "Shadowmancer",
+            "Ogre",
+            "Exorcist",
+            "Bard"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Bard",
+            "Dual Blader",
+            "Lancer",
+            "Dark Mage",
+            "Plague Doctor",
+            "Taoist",
+            "Poison Dart Hunter",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Bard",
+            "Dual Blader",
+            "Lancer",
+            "Dark Mage",
+            "Plague Doctor",
+            "Taoist",
+            "Poison Dart Hunter",
+            "Mystic Dancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Bard",
+            "Dual Blader",
+            "Lancer",
+            "Dark Mage",
+            "Plague Doctor",
+            "Taoist",
+            "Poison Dart Hunter",
+            "Mystic Dancer"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Barrier Mage",
+            "Gunner",
+            "Pyromancer",
+            "Necromancer",
+            "Taoist",
+            "Dark Mage",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Barrier Mage",
+            "Gunner",
+            "Pyromancer",
+            "Necromancer",
+            "Taoist",
+            "Dark Mage",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Cold Corpse",
+            "Barrier Mage",
+            "Gunner",
+            "Pyromancer",
+            "Necromancer",
+            "Taoist",
+            "Dark Mage",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Shrine Maiden",
+            "Berserker",
+            "Ogre",
+            "Pyromancer",
+            "Cook",
+            "Devil",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Shrine Maiden",
+            "Berserker",
+            "Ogre",
+            "Pyromancer",
+            "Cook",
+            "Devil",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Illusionist",
+            "Shrine Maiden",
+            "Berserker",
+            "Ogre",
+            "Pyromancer",
+            "Cook",
+            "Devil",
+            "Monk"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Shrine Maiden",
+            "Gunner",
+            "Swordsman",
+            "Shadowmancer",
+            "Exorcist",
+            "Bard",
+            "Barrier Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Shrine Maiden",
+            "Gunner",
+            "Swordsman",
+            "Shadowmancer",
+            "Exorcist",
+            "Bard",
+            "Barrier Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Cook",
+            "Shrine Maiden",
+            "Gunner",
+            "Swordsman",
+            "Shadowmancer",
+            "Exorcist",
+            "Bard",
+            "Barrier Mage"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Poison Dart Hunter",
+            "Shield Bearer",
+            "Pyromancer",
+            "Gambler",
+            "Ghost",
+            "Cook",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Fighter",
+            "Poison Dart Hunter",
+            "Shield Bearer",
+            "Pyromancer",
+            "Gambler",
+            "Ghost",
+            "Cook",
+            "Lightning Mage"
+        ],
+        "result": "Loss"
+    }
+]
