@@ -98,7 +98,7 @@ def main():
         if choice2 == 'random':
             print('Red is Random')
             red_bot = r_bot
-        elif choice1 == 'mcts':
+        elif choice2 == 'mcts':
             print('Red is MCTS')
             red_bot = m_bot
 

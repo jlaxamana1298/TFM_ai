@@ -7681,5 +7681,122 @@
             "Lightning Mage"
         ],
         "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Taoist",
+            "Gambler",
+            "Exorcist",
+            "Ninja",
+            "Magic Knight",
+            "Lancer",
+            "Necromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Taoist",
+            "Gambler",
+            "Exorcist",
+            "Ninja",
+            "Magic Knight",
+            "Lancer",
+            "Necromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Taoist",
+            "Gambler",
+            "Exorcist",
+            "Ninja",
+            "Magic Knight",
+            "Lancer",
+            "Necromancer"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Mystic Dancer",
+            "Lancer",
+            "Shrine Maiden",
+            "Bard",
+            "Shadowmancer",
+            "Dark Mage",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Mystic Dancer",
+            "Lancer",
+            "Shrine Maiden",
+            "Bard",
+            "Shadowmancer",
+            "Dark Mage",
+            "Werewolf"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Executioner",
+            "Mystic Dancer",
+            "Lancer",
+            "Shrine Maiden",
+            "Bard",
+            "Shadowmancer",
+            "Dark Mage",
+            "Werewolf"
+        ],
+        "result": "Win"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Taoist",
+            "Gunner",
+            "Illusionist",
+            "Pyromancer",
+            "Exorcist",
+            "Cook",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Taoist",
+            "Gunner",
+            "Illusionist",
+            "Pyromancer",
+            "Exorcist",
+            "Cook",
+            "Magic Knight"
+        ],
+        "result": "Loss"
+    },
+    {
+        "characters": [
+            "Shadowmancer",
+            "Taoist",
+            "Gunner",
+            "Illusionist",
+            "Pyromancer",
+            "Exorcist",
+            "Cook",
+            "Magic Knight"
+        ],
+        "result": "Loss"
     }
 ]
